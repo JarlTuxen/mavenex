@@ -9,7 +9,7 @@ public class Matematik {
     public static int subtraction(int x, int y)
     {
         //nice try - refactor
-        return x + y;
+        return x - y;
     }
 
 }
