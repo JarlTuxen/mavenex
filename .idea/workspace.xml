@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c1675b3-6742-4c90-a7f4-1d7ddc6a7b61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geometri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GeometriTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MatematikTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/MatematikTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/MatematikTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-MatematikTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-MatematikTest.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,24 +31,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="301" />
+          <entry key="java" value="451" />
           <entry key="txt" value="64" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="301" />
+          <entry key="JAVA" value="451" />
           <entry key="PLAIN_TEXT" value="64" />
           <entry key="XML" value="4" />
         </counts>
@@ -63,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Matematik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state>
+              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -75,14 +82,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MatematikTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Geometri.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+              <folding>
+                <element signature="e#73#74#0" expanded="true" />
+                <element signature="e#101#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/GeometriTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/test/java/MatematikTest2.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/MatematikTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GeometriTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Geometri.java" />
       </list>
     </option>
   </component>
@@ -176,6 +207,13 @@
               <item name="mavenex" type="b2602c69:ProjectViewProjectNode" />
               <item name="mavenex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -195,7 +233,7 @@
     <property name="SearchEverywhereHistoryKey" value="terminal&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538577765850" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538583474002" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -220,11 +258,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MatematikTest2">
+  <component name="RunManager" selected="JUnit.GeometriTest">
+    <configuration name="GeometriTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven-ex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GeometriTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MatematikTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mavenex" />
+      <module name="maven-ex" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MatematikTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -251,12 +299,14 @@
       <item itemvalue="JUnit.MatematikTest" />
       <item itemvalue="JUnit.MatematikTest.subtraction" />
       <item itemvalue="JUnit.MatematikTest2" />
+      <item itemvalue="JUnit.GeometriTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GeometriTest" />
+        <item itemvalue="JUnit.MatematikTest" />
         <item itemvalue="JUnit.MatematikTest2" />
         <item itemvalue="JUnit.MatematikTest.subtraction" />
-        <item itemvalue="JUnit.MatematikTest" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +320,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538558134126</updated>
-      <workItem from="1538573827654" duration="1362000" />
+      <workItem from="1538573827654" duration="3573000" />
     </task>
     <task id="LOCAL-00001" summary="42 er meningen med alt">
       <created>1538562229595</created>
@@ -293,22 +343,17 @@
       <option name="project" value="LOCAL" />
       <updated>1538574102477</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hygger med Maven">
+      <created>1538577774856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538577774856</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MatematikTest - 2018.10.03 at 11h 30m 53s.xml">
-      <configuration name="MatematikTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatematikTest - 2018.10.03 at 12h 31m 13s.xml">
-      <configuration name="MatematikTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatematikTest - 2018.10.03 at 12h 40m 36s.xml">
-      <configuration name="MatematikTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatematikTest - 2018.10.03 at 12h 41m 18s.xml">
-      <configuration name="MatematikTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MatematikTest - 2018.10.03 at 12h 44m 49s.xml">
       <configuration name="MatematikTest" configurationId="JUnit" />
     </history-entry>
@@ -321,9 +366,27 @@
     <history-entry file="MatematikTest2 - 2018.10.03 at 15h 54m 44s.xml">
       <configuration name="MatematikTest2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MatematikTest - 2018.10.03 at 17h 45m 19s.xml">
+      <configuration name="MatematikTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatematikTest - 2018.10.03 at 17h 46m 22s.xml">
+      <configuration name="MatematikTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatematikTest - 2018.10.03 at 17h 49m 26s.xml">
+      <configuration name="MatematikTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatematikTest - 2018.10.03 at 17h 49m 42s.xml">
+      <configuration name="MatematikTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GeometriTest - 2018.10.03 at 18h 13m 30s.xml">
+      <configuration name="GeometriTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GeometriTest - 2018.10.03 at 18h 14m 21s.xml">
+      <configuration name="GeometriTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1362000" />
+    <option name="totallyTimeSpent" value="3573000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,8 +399,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="28" width="1400" height="757" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24928571" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,15 +411,15 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928573" weight="0.31778425" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49852726" visible="true" weight="0.32781956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.31924197" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49857143" visible="true" weight="0.4504373" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50142854" side_tool="true" visible="true" weight="0.4504373" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49857143" weight="0.4504373" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073636" side_tool="true" weight="0.32932332" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932332" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992636" weight="0.32932332" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -410,27 +474,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="hygger med Maven" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MatematikTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MatematikTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -438,10 +481,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Matematik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MatematikTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GeometriTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Geometri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#101#102#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
