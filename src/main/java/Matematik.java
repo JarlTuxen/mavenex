@@ -1,5 +1,5 @@
 public class Matematik {
-    private final int TALLET = 42;
+    private static final int TALLET = 42;
 
     public static int addition(int x, int y)
     {
@@ -8,7 +8,8 @@ public class Matematik {
 
     public static int subtraction(int x, int y)
     {
-        return x-y;
+        //TODO: refactor
+        return TALLET;
     }
 
 }
