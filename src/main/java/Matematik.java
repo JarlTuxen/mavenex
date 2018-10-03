@@ -8,8 +8,8 @@ public class Matematik {
 
     public static int subtraction(int x, int y)
     {
-        //TODO: refactor
-        return TALLET;
+        //nice try - refactor
+        return x + y;
     }
 
 }
