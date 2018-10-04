@@ -18,7 +18,7 @@ public class School {
     public boolean closeBar()
     {
         //do some stuff
-        boolean closed = true;
+        boolean closed = false;
         return closed;
     }
 
